@@ -1,0 +1,1 @@
+A link shortner web app built using Jquery and consuming the rebrandly API
